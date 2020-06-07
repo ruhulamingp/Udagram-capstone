@@ -35,5 +35,5 @@ jobs:
       if: type = push AND branch = master
       env:
         - SERVICE_PATH="backend"
-        - STAGE_NAME=prod
+        - STAGE_NAME=prd
         - *PRODUCTION_ENV
