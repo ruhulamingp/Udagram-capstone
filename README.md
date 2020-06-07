@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.com/ruhulamingp/udagram-capstone.svg?branch=master)](https://travis-ci.com/ruhulamingp/udagram-capstone)
+
 # GitHub Repository Link:
 
 https://github.com/ruhulamingp/udagram-capstone
