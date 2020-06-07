@@ -72,4 +72,4 @@ This should start a development server with the React application that will inte
 
 ## CI/CD
 
-Here we have added jenkins file which contains stages of deploying frontend app in S3
+Here we have added jenkins file which contains stages of deploying frontend app in S3.
